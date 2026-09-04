@@ -24,6 +24,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://www.toyota-global.com/', status: 302, note: 'declared website redirects to https://global.toyota/en/ — a different registrable domain (toyota-global.com -> global.toyota), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/toyota-motor-corporation.png
 tags:
   - Automobiles
