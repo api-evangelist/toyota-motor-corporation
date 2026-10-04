@@ -1,6 +1,6 @@
 aid: toyota-motor-corporation
 url: https://raw.githubusercontent.com/api-evangelist/toyota-motor-corporation/refs/heads/main/apis.yml
-name: Toyota Motor Corporation
+name: Toyota
 type: Index
 deliveryModel:
   model: unknown
@@ -48,3 +48,4 @@ common:
     url: https://www.toyota-global.com/
   - url: https://pressroom.toyota.com/feed/
     type: Blog
+x-legal-name: Toyota Motor Corporation
